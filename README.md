@@ -1,6 +1,6 @@
 ﻿# Code-Hunt-Solution Sector01-14
 
-+ [Sector01 ARITHMETIC](#Sector01 ARITHMETIC)
++ [Sector01 ARITHMETIC](#sector01-arithmetic)
 + [Sector02 LOOPS](#Sector02 LOOPS)
 + [Sector03 LOOPS2](#Sector03 LOOPS2)
 + [Sector04 CONDITIONALS](#Sector04 CONDITIONALS)
