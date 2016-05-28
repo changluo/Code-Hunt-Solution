@@ -1,19 +1,19 @@
 ﻿# Code-Hunt-Solution Sector01-14
 
 + [Sector01 ARITHMETIC](#sector01-arithmetic)
-+ [Sector02 LOOPS](#Sector02 LOOPS)
-+ [Sector03 LOOPS2](#Sector03 LOOPS2)
-+ [Sector04 CONDITIONALS](#Sector04 CONDITIONALS)
-+ [Sector05 CONDITIONALS2](#Sector05 CONDITIONALS2)
-+ [Sector06 STRINGS](#Sector06 STRINGS)
-+ [Sector07 STRINGS2](#Sector07 STRINGS2)
-+ [Sector08 NESTED LOOPS](#Sector08 NESTED LOOPS)
-+ [Sector09 ARRAYS](#Sector09 ARRAYS)
-+ [Sector10 JAGGED ARRAYS](#Sector10 JAGGED ARRAYS)
-+ [Sector11 ARRAYS2](#Sector11 ARRAYS2)
-+ [Sector12 SEARCH SORT](#Sector12 SEARCH SORT)
-+ [Sector13 CYPHERS](#Sector13 CYPHERS)
-+ [Sector14 PUZZLES](#Sector14 PUZZLES)
++ [Sector02 LOOPS](#sector02-loops)
++ [Sector03 LOOPS2](#sector03-loops2)
++ [Sector04 CONDITIONALS](#sector04-conditionals)
++ [Sector05 CONDITIONALS2](#sector05-conditionals2)
++ [Sector06 STRINGS](#sector06-strings)
++ [Sector07 STRINGS2](#sector07-strings2)
++ [Sector08 NESTED LOOPS](#sector08-nested-loops)
++ [Sector09 ARRAYS](#sector09-arrays)
++ [Sector10 JAGGED ARRAYS](#sector10-jagged-arrays)
++ [Sector11 ARRAYS2](#sector11-arrays2)
++ [Sector12 SEARCH SORT](#sector12-search-sort)
++ [Sector13 CYPHERS](#sector13-cyphers)
++ [Sector14 PUZZLES](#sector14-puzzles)
 
 ##Sector01 ARITHMETIC
 ```Java
