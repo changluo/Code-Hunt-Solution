@@ -1,21 +1,21 @@
 ﻿# Code-Hunt-Solution Sector01-14
 
-+ [Sector01 ARITHMETIC](#Sector01-ARITHMETIC)
-+ [Sector02 LOOPS](#Sector02-LOOPS)
-+ Sector03 LOOPS2
-+ Sector04 CONDITIONALS
-+ Sector05 CONDITIONALS2
-+ Sector06 STRINGS
-+ Sector07 STRINGS2
-+ Sector08 NESTED LOOPS
-+ Sector09 ARRAYS
-+ Sector10 JAGGED ARRAYS
-+ Sector11 ARRAYS2
-+ Sector12 SEARCH SORT
-+ Sector13 CYPHERS
-+ Sector14 PUZZLES
++ [Sector01 ARITHMETIC](#Sector 01 ARITHMETIC)
++ [Sector02 LOOPS](#Sector 02 LOOPS)
++ [Sector03 LOOPS2](#Sector 03 LOOPS2)
++ [Sector04 CONDITIONALS](#Sector 04 CONDITIONALS)
++ [Sector05 CONDITIONALS2](#Sector 05 CONDITIONALS2)
++ [Sector06 STRINGS](#Sector 06 STRINGS)
++ [Sector07 STRINGS2](#Sector 07 STRINGS2)
++ [Sector08 NESTED LOOPS](#Sector 08 NESTED LOOPS)
++ [Sector09 ARRAYS](#Sector 09 ARRAYS)
++ [Sector10 JAGGED ARRAYS](#Sector 10 JAGGED ARRAYS)
++ [Sector11 ARRAYS2](#Sector 11 ARRAYS2)
++ [Sector12 SEARCH SORT](#Sector 12 SEARCH SORT)
++ [Sector13 CYPHERS](#Sector 13 CYPHERS)
++ [Sector14 PUZZLES](#Sector 14 PUZZLES)
 
-##Sector01 ARITHMETIC
+##Sector 01 ARITHMETIC
 ```Java
     01.01   
     return -x;
