@@ -669,7 +669,7 @@
        }
        return max;
 ```
-##Sector11 ARRAYS
+##Sector11 ARRAYS2
 ```Java
     11.01
       int length = Math.max(a.length,b.length);
