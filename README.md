@@ -1,21 +1,21 @@
 ﻿# Code-Hunt-Solution Sector01-14
 
-+ [Sector01 ARITHMETIC](#Sector 01 ARITHMETIC)
-+ [Sector02 LOOPS](#Sector 02 LOOPS)
-+ [Sector03 LOOPS2](#Sector 03 LOOPS2)
-+ [Sector04 CONDITIONALS](#Sector 04 CONDITIONALS)
-+ [Sector05 CONDITIONALS2](#Sector 05 CONDITIONALS2)
-+ [Sector06 STRINGS](#Sector 06 STRINGS)
-+ [Sector07 STRINGS2](#Sector 07 STRINGS2)
-+ [Sector08 NESTED LOOPS](#Sector 08 NESTED LOOPS)
-+ [Sector09 ARRAYS](#Sector 09 ARRAYS)
-+ [Sector10 JAGGED ARRAYS](#Sector 10 JAGGED ARRAYS)
-+ [Sector11 ARRAYS2](#Sector 11 ARRAYS2)
-+ [Sector12 SEARCH SORT](#Sector 12 SEARCH SORT)
-+ [Sector13 CYPHERS](#Sector 13 CYPHERS)
-+ [Sector14 PUZZLES](#Sector 14 PUZZLES)
++ [Sector01 ARITHMETIC](#Sector01 ARITHMETIC)
++ [Sector02 LOOPS](#Sector02 LOOPS)
++ [Sector03 LOOPS2](#Sector03 LOOPS2)
++ [Sector04 CONDITIONALS](#Sector04 CONDITIONALS)
++ [Sector05 CONDITIONALS2](#Sector05 CONDITIONALS2)
++ [Sector06 STRINGS](#Sector06 STRINGS)
++ [Sector07 STRINGS2](#Sector07 STRINGS2)
++ [Sector08 NESTED LOOPS](#Sector08 NESTED LOOPS)
++ [Sector09 ARRAYS](#Sector09 ARRAYS)
++ [Sector10 JAGGED ARRAYS](#Sector10 JAGGED ARRAYS)
++ [Sector11 ARRAYS2](#Sector11 ARRAYS2)
++ [Sector12 SEARCH SORT](#Sector12 SEARCH SORT)
++ [Sector13 CYPHERS](#Sector13 CYPHERS)
++ [Sector14 PUZZLES](#Sector14 PUZZLES)
 
-##Sector 01 ARITHMETIC
+##Sector01 ARITHMETIC
 ```Java
     01.01   
     return -x;
@@ -62,7 +62,7 @@
     01.15
     return (x+y+z)/3;
 ```
-##Sector 02 LOOPS
+##Sector02 LOOPS
 ```Java
     02.01
     int[] a = new int[n];
@@ -113,7 +113,7 @@
     }
     return count;
 ```
-##Sector 03 LOOPS2
+##Sector03 LOOPS2
 ```Java
     03.01
     if(power==0) return 1;
@@ -186,7 +186,7 @@
 
     return count;
 ```
-##Sector 04 CONDITIONALS
+##Sector04 CONDITIONALS
 ```Java
     04.01
     return x|y;
@@ -246,7 +246,7 @@
     }
     return output;
 ```
-##Sector 05 CONDITIONALS2
+##Sector05 CONDITIONALS2
 ```Java
     05.01 
     if(s.length()<4) return "short";
@@ -271,7 +271,7 @@
     if(i*i == j)    return true;
     else    return false;
 ```
-##Sector 06 STRINGS
+##Sector06 STRINGS
 ```Java
     06.01
     return false;
@@ -337,7 +337,7 @@
         }
         return s;
 ```
-##Sector 07 STRINGS2
+##Sector07 STRINGS2
 ```Java
     07.01
         return two+three+one+one+three+two;
@@ -397,7 +397,7 @@
     
          return r.substring(0, 52*t-t*2)+"z";
 ```
-##Sector 08 NESTED LOOPS
+##Sector08 NESTED LOOPS
 ```Java
     08.01
         public static int Factorial(int x) {
@@ -492,7 +492,7 @@
         }
         return output.trim();
 ```
-##Sector 09 ARRAYS
+##Sector09 ARRAYS
 ```Java
     09.01
         return list[i];
@@ -583,7 +583,7 @@
        }
        return res;
 ```
-##Sector 10 JAGGED ARRAYS
+##Sector10 JAGGED ARRAYS
 ```Java
     10.01
         return list[i][j];
@@ -669,7 +669,7 @@
        }
        return max;
 ```
-##Sector 11 ARRAYS
+##Sector11 ARRAYS
 ```Java
     11.01
       int length = Math.max(a.length,b.length);
@@ -742,7 +742,7 @@
       }
       return res;
 ```
-##Sector 12 SEARCH SORT
+##Sector12 SEARCH SORT
 ```Java
     12.01
       int count = 0;
@@ -872,7 +872,7 @@
       }
       return a;
 ```
-##Sector 13 CYPHERS
+##Sector13 CYPHERS
 ```Java
     13.01
         char[] c = new char[s.length()];
@@ -907,7 +907,7 @@
         }
         return new String(c);
 ```
-##Sector 14 PUZZLES
+##Sector14 PUZZLES
 ```Java
     14.01
         return x * (x + 1) / 2;
